@@ -7,3 +7,6 @@ PCA is usually used in facial recognition due to its ability to "detect" charact
 
 ![Alt text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/CatMean.PNG)
 
+2. Next we substrate the mean off from all the images
+
+![Alt text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/demean.jpg)
