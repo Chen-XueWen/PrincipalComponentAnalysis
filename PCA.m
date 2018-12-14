@@ -1,3 +1,8 @@
+%Written by Tan Xue Wen
+%Please do not plagarise the code. Try to understand and write the code yourself, 
+%it is more fun that way
+%Any question do email to: xuewen@u.nus.edu
+
 %Eigencat
 CatImg_Dir = 'Cat_Pic/';
 imagefiles = dir(strcat(CatImg_Dir,'*.jpg'));
