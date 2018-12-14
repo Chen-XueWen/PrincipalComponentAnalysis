@@ -8,3 +8,8 @@ PCA is usually used in facial recognition due to its ability to "detect" charact
 The image below showcase the top 9 eigenvectors for the cat images.
 ![Alt_text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/Top9EigenCat.jpg)
 
+Lastly, the reconstructed cat images (9 out of the 25 images) from the top 50 eigenvectors.
+![Alt_text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/Reconstruct.jpg)
+
+#### Conclusion
+When you perform PCA, you will see that each images becomes only k dimension as opposed to the 32x32 pixels which can be detrimental (if large amount of images: talking about millions here) when we input it directly to a macahine learning algorithm. Hence it is wise to reduce the dimension such that it sufficiently represent the dataset and not destroying its integrity while compressing it.
