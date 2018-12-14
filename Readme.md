@@ -4,5 +4,5 @@ PCA is usually used in facial recognition due to its ability to "detect" charact
 
 ## Process
 1. First we get the mean of the dataset. The image below is the mean of all the cat images.
-![Alt text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/CatMean.png)
+![Alt text](https://github.com/Chen-XueWen/PrincipalComponentAnalysis/blob/master/CatMean.PNG)
 
