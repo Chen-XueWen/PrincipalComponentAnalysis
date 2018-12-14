@@ -15,3 +15,5 @@ Lastly, the reconstructed cat images (9 out of the 25 images) from the top 50 ei
 When you perform PCA, you will see that each images becomes only k dimension as opposed to the 32x32 pixels which can be detrimental (if large amount of images: talking about millions here) when we input it directly to a macahine learning algorithm. Hence it is wise to reduce the dimension such that it sufficiently represent/compress the dataset and retain its integrity.
 
 *P.S Download the PCA.m files to experiment around
+
+### This guide is written by xue wen. Any questions do email to xuewen@u.nus.edu
